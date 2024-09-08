@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ctrlgn
-- 👀 I’m interested in web dev and software dev.
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me: Instagram -> @girifailure
-- 😄 Pronouns: she/her
+-  Hi, I’m @ctrlgn
+-  I’m interested in web dev and software dev.
+-  I’m currently learning Java.
+- 📫 How to reach me: linkedin -> (https://www.linkedin.com/in/noemi-g-13273431a/)
+-  Pronouns: she/her
