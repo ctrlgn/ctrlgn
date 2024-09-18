@@ -1,4 +1,4 @@
--  Hi, I’m @ctrlgn
+-  Hi, I’m Noemi
 -  I’m interested in web dev and software dev.
 -  I’m currently learning Java.
 - 📫 How to reach me: linkedin -> (https://www.linkedin.com/in/noemi-g-13273431a/)
